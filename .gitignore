@@ -1,0 +1,32 @@
+data/
+figures/
+processed_data/
+stacking/oof_outputs/
+submission_files/
+archive/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Data / models
+*.pkl
+*.npy
+*.joblib
+*.pt
+*.pth
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Run logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

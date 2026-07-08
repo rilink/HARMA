@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+lightgbm
+gpboost
+
+# Deep learning
+torch
+rtdl_num_embeddings
+typing_extensions
+
+# Feature engineering
+joblib
+
+# Visualization
+matplotlib
+seaborn
